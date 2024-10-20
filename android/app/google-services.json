@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "624354356680",
+    "project_id": "weave-bef10",
+    "storage_bucket": "weave-bef10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624354356680:android:6961a074311c131a7564fd",
+        "android_client_info": {
+          "package_name": "com.createex.wave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624354356680-kmo1ls5aj73qqgv4n4tgpkpmg7rmbm2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jhrl7ydERccOcX3SrK7C_IB_a37SHbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624354356680-kmo1ls5aj73qqgv4n4tgpkpmg7rmbm2h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624354356680-r8ccpckog6g1k4sm8hkmcmbjdlrvsh3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.createex.wave"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
